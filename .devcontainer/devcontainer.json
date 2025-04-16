@@ -1,0 +1,14 @@
+{
+    "name": "CI-CD Demo",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.csdevkit",
+                "ms-dotnettools.vscodeintellicode-csharp",
+                "hashicorp.terraform"
+            ]
+        }
+    }
+
+}
